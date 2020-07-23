@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    background-image: url("https://wallpapercave.com/wp/wp2343907.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #010101;
+}
+  #app {
+      width: 60vw;
+      margin: auto;
+  }
+  .Header {
+    background-color: #870609;
+    height: 10vh;
+  }
+  .Content {
+      min-height: 100vh;
+      background-color: rgba(128, 128, 128, 0.2);
+  }
+  .Footer {
+    background-color: #870609;
+    height: 10vh;
+  }
+  
+  
